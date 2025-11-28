@@ -24,7 +24,8 @@ Incluye nuevas etiquetas, APIs nativas y mejoras respecto a versiones anteriores
   </body>
 </html>
 
-´´´
+```
+
 ## Explicación de la estructura HTML5
 
 A continuación se detalla cada parte del documento base en HTML5:
