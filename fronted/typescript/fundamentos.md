@@ -27,6 +27,9 @@ En JavaScript puro (tipado dinámico), los errores de valores suelen saltar cuan
 
 TypeScript actúa como una "validación tipo SQL": si defines que un dato es un número, el sistema te impide meter texto mientras programas, ahorrándote errores en producción.
 
+<img width="965" height="276" alt="image" src="https://github.com/user-attachments/assets/44df2eac-8dfa-4eee-b2d2-a6a044a955ba" />
+
+
 # El Proceso de Transpilación
 Es importante entender que los navegadores no entienden TypeScript directamente.
 
@@ -35,3 +38,4 @@ El Transpiler: TypeScript incluye una herramienta que traduce tu código a JavaS
 Versatilidad: Puedes configurar este traductor para que genere código en ES5 (la versión que entienden todos los navegadores antiguos) o ES6 (versiones más modernas).
 
 Ecosistema: Está pensado para proyectos de gran escala. De hecho, herramientas famosas como Angular están construidas totalmente con TypeScript, y es compatible con librerías como Node.js, MongoDB y D3.js.
+
